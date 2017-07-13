@@ -11,10 +11,13 @@
     "debug": "~2.6.3",
     "express": "~4.15.2",
     "jade": "~1.11.0",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
+    "gulp": "^\n[0x7FFDA30E0FF0] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53740] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53960] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1E99890] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1E9A1F0] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53510] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA309BE90] ANOMALY: use of REX.w is meaningless (default operand size is 64)\r\n[0x7FFDA309E6D0] ANOMALY: use of REX.w is meaningless (default operand size is 64)\r\n[0x7FFDA30E0FF0] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53740] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53960] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1E99890] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1E9A1F0] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA1F53510] ANOMALY: meaningless REX prefix used\r\n[0x7FFDA309BE90] ANOMALY: use of REX.w is meaningless (default operand size is 64)\r\n[0x7FFDA309E6D0] ANOMALY: use of REX.w is meaningless (default operand size is 64)3.9.1",
     "pug": "^2.0.0-rc.2"
   }
 }
