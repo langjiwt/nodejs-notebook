@@ -11,6 +11,6 @@ var adminUserSchema = new Schema({
     last_login: Date
 });
 
-var UserAdmin = mongoose.model('userAdmin', adminUserSchema);
+var AdminUser = mongoose.model('admin_user', adminUserSchema);
 
-module.exports = UserAdmin;
+module.exports = AdminUser;
